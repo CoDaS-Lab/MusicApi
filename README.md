@@ -17,5 +17,6 @@ genre in string, "url": music url in string}`
 
 For starting the API on a local machine, the supported packages will be needed to be installed. A list of all the
 packages required to run the API is documented in requirements.txt
+
 Start the server using `python app.py`.
 After starting the API, the front-end music player should be able to access the API. As default setting flask API is available at `127.0.0.0:5000`.
