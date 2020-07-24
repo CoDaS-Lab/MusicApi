@@ -2,7 +2,7 @@
 
 The development of this project is supported by grant NSF-1549981.
 
-The app is developed using Flask frame-work and uses MongoDB database for storing the user data.
+The API is developed using Flask frame-work and uses MongoDB database for storing the user data.
 
 
 ### Database
